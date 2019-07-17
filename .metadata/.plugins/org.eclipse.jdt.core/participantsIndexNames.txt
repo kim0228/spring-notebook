@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1487874865.index
+\jex00\src\main\java
+C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2754895319.index
+\myproject\src\main\java
+C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3178133098.index
+\ex00\src\main\java
