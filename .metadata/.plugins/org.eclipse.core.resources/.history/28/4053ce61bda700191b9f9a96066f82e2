@@ -1,7 +1,0 @@
-package org.zerock.config;
-
-import org.springframework.comtext.annotation.Configuration;
-
-public class RootConfig {
-
-}
