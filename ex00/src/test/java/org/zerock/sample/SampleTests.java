@@ -13,6 +13,7 @@ import lombok.extern.log4j.Log4j;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("file:src/main/webapp/WEB-INF/spring/root-context.xml")
+// @ContextConfiguration는 스프링이 실행되면서 어떤 설정 정보를 읽어 들여야 하는지를 명시한다.
 @Log4j
 public class SampleTests {
 	@Setter(onMethod_ = {@Autowired})

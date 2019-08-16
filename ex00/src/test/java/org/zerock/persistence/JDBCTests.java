@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import lombok.extern.log4j.Log4j;
 
-@Log4j
+@Log4j // 로그 객체 생성을 도와준다.
 public class JDBCTests {
 	static {
 		try {
