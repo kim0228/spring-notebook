@@ -8,24 +8,19 @@
 <title>게시물 목록</title>
 </head>
 <body>
-	<form method="post">
-  <div>
-    <label>제목</label> <input type="text" name="title" value="${view.title}" readonly="readonly"/>
-  </div>
 
-  <div>
-    <label>작성자</label> <input type="text" name="writer" value="${view.writer}" readonly="readonly"/>
-  </div>
+<label>제목</label>
+${view.title}<br />
 
-  <div>
-    <label>작성날짜</label> <input type="text" name="regDate"
- value="<fmt:formatDate value="${view.regDate}" pattern="yyyy-MM-dd" />" readonly="readonly"/>
+<label>작성자</label>
+${view.writer}<br />
+
+<label>내용</label><br />
+${view.content}<br />
+
+<div>
+<a href="/board/modify?bno=${view.bno}">게시물 수정</a>
 </div>
 
-  <div>
-    <label>내용</label>
-    <textarea rows="5" cols="50" name="content" readonly="readonly">${view.content}</textarea>
-  </div>
-</form>
 </body>
 </html>
