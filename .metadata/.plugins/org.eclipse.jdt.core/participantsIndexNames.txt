@@ -7,7 +7,11 @@ C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\14
 \k_board\src\main\java
 C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3178133098.index
 \ex00\src\main\java
+C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012140731.index
+\ex01\src\main\java
 C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2754895319.index
 \myproject\src\main\java
+C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2415907875.index
+\ex01\src\main\java
 C:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\645359102.index
 \k_board\src\main\java
